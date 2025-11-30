@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 UMAP Embeddings</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>CS424: COVID-19 Embedding Analysis</h1>
+        <p>Interactive exploration of ZIP code embeddings based on COVID-19 metrics</p>
+    </div>
+    <div class="main-container">
+
+ 
+        <div id="viz" class="panel-large"></div>
+  
+
+    </div>
+
+
+    <!-- full-width section -->
+    <div class="assignment-grid">
+        <div class="assignment-3-section">
+            <h2>Linked Choropleth Map + Time Series</h2>
+            <p>Click on ZIP codes in the map above to see their case rate trends over time</p>
+            <iframe src="choropleth_timeseries.html" class="visualization-iframe"></iframe>
+        </div>
+        <div class="assignment-3-section">
+            <h2>Severity Analysis</h2>
+            <p>Click on bars to display case fatality rate by ZIP code</p>
+            <iframe src="severity_analysis.html" class="visualization-iframe"></iframe>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>CS424 JaJuBa Project | University of Illinois Chicago | Fall 2025</p>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
