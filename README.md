@@ -155,7 +155,6 @@ For example, we can instantly see that high-density clusters in different parts 
 
 ## Contributors
 
-### Frontend Team
 #### **Julia Bowman** - [[LinkedIn](https://www.linkedin.com/in/juliafbowman/)]
 
 #### **Basil Tiongson** - [[LinkedIn](https://www.linkedin.com/in/basiltiongson/)]
