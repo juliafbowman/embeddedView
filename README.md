@@ -1,4 +1,4 @@
-# Assignment 4 – COVID-19 Embedding Visualization
+# COVID-19 Embedding Visualization
 
 This project explores COVID-19 trends across Chicago ZIP Codes through dimensionality reduction and interactive visualization.  
 Using embedding construction and UMAP, we transformed multidimensional public-health data into a 2D representation to reveal patterns like population-density clustering, temporal trajectories, and spatial disparities.
@@ -139,7 +139,7 @@ For example, we can instantly see that high-density clusters in different parts 
 
 ## Live Demo
 
-🔗 **Web Interface:** PUT URL HERE FOR HOSTED 
+🔗 **Web Interface:** [Hosted Here](https://juliafbowman.github.io/embeddedView/) 
 
 ## Limitations & Future Work
 
@@ -152,3 +152,12 @@ For example, we can instantly see that high-density clusters in different parts 
 - Incorporate mobility and socioeconomic indicators such as public transit usage, income levels, and housing density.
 - Support brushing-based selection in addition to clicking individual points.
 - Introduce animated transitions to show how patterns evolve over time in the embedding space.
+
+## Contributors
+
+### Frontend Team
+#### **Julia Bowman** - [[LinkedIn](https://www.linkedin.com/in/juliafbowman/)]
+
+#### **Basil Tiongson** - [[LinkedIn](https://www.linkedin.com/in/basiltiongson/)]
+
+#### **Jason Carmona** - [[LinkedIn](https://www.linkedin.com/in/cs-jason-carmona/)]
