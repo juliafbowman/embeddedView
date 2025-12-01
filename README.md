@@ -8,6 +8,10 @@ The final product is a standalone web interface with views that allow users to:
 - Connect abstract structure to geography  
 - Analyze trends over time through linked selections
 
+## Live Demo
+
+🔗 **Web Interface:** [Hosted Here](https://juliafbowman.github.io/embeddedView/) 
+
 ## Embedding Construction
 
 ### Preprocessing and Normalization
@@ -136,10 +140,6 @@ For example, we can instantly see that high-density clusters in different parts 
 <img src="images/assignment4-2.png" alt="Screenshot of Visualization" width="800" />
 <img src="images/assignment4-3.png" alt="Screenshot of Visualization" width="800" />
 <img src="images/task3.gif" alt="GIF of Visualization" width="800" />
-
-## Live Demo
-
-🔗 **Web Interface:** [Hosted Here](https://juliafbowman.github.io/embeddedView/) 
 
 ## Limitations & Future Work
 
